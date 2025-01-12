@@ -36,7 +36,7 @@ export LANG=ja_JP.UTF-8
 
 # alias brew='PATH=/usr/local/bin:/usr/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/Library/Apple/usr/bin:/usr/local/opt/m4/bin:/usr/local/opt/ncurses/bin:/usr/local/opt/sqlite/bin:/usr/local/opt/openssl@1.1/bin brew' 
 
-. /usr/local/opt/asdf/libexec/asdf.sh
+# . /usr/local/opt/asdf/libexec/asdf.sh
 
 alias ll='exa -l --icons --git'
 alias la='exa -la --icons --git'
@@ -45,4 +45,3 @@ alias cat='bat'
 export PATH="$HOME/.yarn/bin:$HOME/.config/yarn/global/node_modules/.bin:$PATH"
 
 eval "$(starship init zsh)"
-export PATH="/usr/local/opt/tcl-tk/bin:$PATH"
