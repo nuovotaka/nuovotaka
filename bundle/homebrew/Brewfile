@@ -1,22 +1,23 @@
+tap "homebrew/cask-fonts"
+tap "homebrew/cask-versions"
+tap "homebrew/services"
 tap "fsouza/prettierd"
 tap "homebrew/bundle"
-tap "homebrew/services"
 tap "koekeishiya/formulae"
+cask_args appdir: "/Applications"
 
 brew "arp-scan"
-brew "asdf"
+# brew "asdf"
 brew "bat"
 brew "gawk"
 brew "git"
 brew "gnupg"
-brew "jq"
 brew "mas"
 brew "neovim"
-brew "sqlite"
+# brew "sqlite"
 brew "xz"
 brew "starship"
-brew "stow"
-brew "tcl-tk"
+# brew "stow"
 brew "tmux"
 brew "tree"
 brew "zsh"
@@ -28,7 +29,6 @@ cask "binance", args: { appdir: "/Applications" }
 cask "brave-browser", args: { appdir: "/Applications" }
 cask "bruno"
 cask "deepl", args: { appdir: "/Applications" }
-cask "docker", args: { appdir: "/Applications" }
 cask "dropbox", args: { appdir: "/Applications" }
 cask "figma", args: { appdir: "/Applications" }
 cask "font-code-new-roman-nerd-font", args: { appdir: "/Applications" }
