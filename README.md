@@ -33,7 +33,7 @@ dip is a full-Rust Web3 application toolkit focus on ECS based event-driven deve
 
 ## Setup
 
-![macbook pro](https://img.shields.io/badge/M4%20Pro%20MacBook%20Pro%2024'-000000?style=for-the-badge&logo=apple)
+![macbook pro](https://img.shields.io/badge/M4%20Pro%20MacBook%20Pro%2016"%20'24-000000?style=for-the-badge&logo=apple)
 ![terminal](https://img.shields.io/badge/Kitty-000000?style=for-the-badge&logo=kitty)
 ![editor](https://img.shields.io/badge/Vscode-000000?style=for-the-badge&logo=vscode)
 ![editor](https://img.shields.io/badge/Neovim-000000?style=for-the-badge&logo=neovim)
