@@ -6,7 +6,7 @@
   
   <p>Hi there! 👋</p>
   
-  <p>Western Shizuoka Prefecture in Japan</p>
+  <p>Western Shizuoka Prefecture in Japan 🍊🍵</p>
   🇯🇵
 </div>
 
