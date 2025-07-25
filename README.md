@@ -18,9 +18,9 @@ This GitHub profile repository contains all my personal configuration.
 
 ## dip
 
-Use [diptools/dip](https://github.com/diptools/dip)
+- Use [diptools/dip](https://github.com/diptools/dip)
 
-dip is a full-Rust Web3 application toolkit focus on ECS based event-driven development.
+  - dip is a full-Rust Web3 application toolkit focus on ECS based event-driven development.
 
 [developer](https://github.com/junichisugiura)
 
