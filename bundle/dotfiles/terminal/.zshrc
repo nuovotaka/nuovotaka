@@ -34,14 +34,18 @@ if [[ $(command -v eza) ]]; then
  fi
 export LANG=ja_JP.UTF-8
 
-# alias brew='PATH=/usr/local/bin:/usr/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/Library/Apple/usr/bin:/usr/local/opt/m4/bin:/usr/local/opt/ncurses/bin:/usr/local/opt/sqlite/bin:/usr/local/opt/openssl@1.1/bin brew' 
-
-# . /usr/local/opt/asdf/libexec/asdf.sh
-
 alias ll='eza -l --icons --git'
 alias la='eza -la --icons --git'
 alias cat='bat'
 
-export PATH="$HOME/.yarn/bin:$HOME/.config/yarn/global/node_modules/.bin:$PATH"
-
 eval "$(starship init zsh)"
+
+. /nix/var/nix/profiles/default/etc/profile.d/nix.sh
+
+export PATH="/Users/taka_mbp/.volta/bin:$PATH"
+
+# Added by Antigravity
+export PATH="/Users/taka_mbp/.antigravity/antigravity/bin:$PATH"
+
+# Added by Antigravity
+export PATH="/Users/taka_mbp/.antigravity/antigravity/bin:$PATH"
