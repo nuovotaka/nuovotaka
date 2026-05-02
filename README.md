@@ -13,4 +13,4 @@
 ## dotfiles.
 ### My dotfiles
 
-- [dotfiles-nix](https://github.com/nuovotaka/dotfiles-nix)
+- [dotfiles](https://github.com/nuovotaka/dotfiles)
