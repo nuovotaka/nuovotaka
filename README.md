@@ -14,3 +14,7 @@
 ### My dotfiles
 
 - [dotfiles](https://github.com/nuovotaka/dotfiles)
+  - nix
+  - nix-darwin
+  - homebrew
+  - nixvim(neovim)
